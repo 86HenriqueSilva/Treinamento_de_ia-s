@@ -1,5 +1,4 @@
-Claro! Aqui está um exemplo de README.md para o projeto de previsão dos números da Mega Sena com redes neurais LSTM:
-Previsão dos Números da Mega Sena com Redes Neurais LSTM
+
 
 Bem-vindo ao projeto de previsão dos números vencedores da Mega Sena utilizando redes neurais LSTM! Este projeto tem como objetivo utilizar inteligência artificial para prever os números que serão sorteados na Mega Sena, com base em dados históricos dos sorteios anteriores.
 Visão Geral:
